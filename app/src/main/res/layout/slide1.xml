@@ -48,7 +48,7 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:onClick="getStarted"
-        android:text="This app is meant for student only"/>
+        android:text="This app is meant for seller only"/>
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="64dp" />

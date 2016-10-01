@@ -23,6 +23,6 @@
         android:textSize="20sp"
         android:textColor="@android:color/white"
         android:fontFamily="cursive"
-        android:text="Student App v1.0"
+        android:text="Seller App v1.0"
         />
 </RelativeLayout>
